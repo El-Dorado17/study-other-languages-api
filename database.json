@@ -1,0 +1,295 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Ely Dorado",
+      "email": "ely@gmail.com",
+      "isStaff": true
+    },
+    {
+      "id": 2,
+      "name": "Mikayla Dorado",
+      "email": "mikayla@gmail.com",
+      "isStaff": false
+    },
+    {
+      "email": "val@gmail.com",
+      "fullName": "Valentina Dorado",
+      "isStaff": false,
+      "id": 3
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "category": "People",
+      "translatedCategory": "Personas"
+    },
+    {
+      "id": 2,
+      "category": "Animals",
+      "translatedCategory": "Animales"
+    },
+    {
+      "id": 3,
+      "category": "Food",
+      "translatedCategory": "Comida"
+    },
+    {
+      "id": 4,
+      "category": "Geography",
+      "translatedCategory": "Geografia"
+    },
+    {
+      "id": 5,
+      "category": "Holidays",
+      "translatedCategory": "Dias Festivo"
+    },
+    {
+      "id": 6,
+      "category": "Miscellaneous",
+      "translatedCategory": "Miscelaneos"
+    },
+    {
+      "id": 7,
+      "category": "Phrases",
+      "translatedCategory": "Frases"
+    }
+  ],
+  "initialIndexCards": [
+    {
+      "word": "House",
+      "exampleSentence": "Our house is yellow",
+      "translatedWord": "Casa",
+      "translatedExampleSentence": "Nuestra casa es amarillo",
+      "categoryId": 6,
+      "formal": true,
+      "id": 1
+    },
+    {
+      "word": "Book",
+      "exampleSentence": "She is reading a book",
+      "translatedWord": "Libro",
+      "translatedExampleSentence": "Ella lee un libro",
+      "categoryId": 6,
+      "formal": true,
+      "id": 2
+    },
+    {
+      "word": "Bread",
+      "exampleSentence": "Do you guys have toasted bread?",
+      "translatedWord": "Pan",
+      "translatedExampleSentence": "Tienen pan tostado?",
+      "categoryId": 3,
+      "formal": true,
+      "id": 3
+    },
+    {
+      "word": "News",
+      "exampleSentence": "I have good news!",
+      "translatedWord": "Noticias",
+      "translatedExampleSentence": "Tengo buenas noticias!",
+      "categoryId": 6,
+      "formal": true,
+      "id": 4
+    },
+    {
+      "word": "Husband",
+      "exampleSentence": "The husband loves his wife",
+      "translatedWord": "Marido",
+      "translatedExampleSentence": "El marido quiere a su esposa",
+      "categoryId": 1,
+      "formal": true,
+      "id": 5
+    },
+    {
+      "word": "City",
+      "exampleSentence": "El Paso is a beautiful city",
+      "translatedWord": "Ciudad",
+      "translatedExampleSentence": "El Paso es una ciudad hermosa",
+      "categoryId": 4,
+      "formal": true,
+      "id": 6
+    },
+    {
+      "word": "Woman",
+      "exampleSentence": "",
+      "translatedWord": "Mujer",
+      "translatedExampleSentence": "",
+      "categoryId": 1,
+      "formal": true,
+      "id": 7
+    },
+    {
+      "word": "Man",
+      "exampleSentence": "",
+      "translatedWord": "Hombre",
+      "translatedExampleSentence": "",
+      "categoryId": 1,
+      "formal": true,
+      "id": 8
+    },
+    {
+      "word": "Father",
+      "exampleSentence": "You are NOT the father!",
+      "translatedWord": "Padre",
+      "translatedExampleSentence": "Tu NO ERES el padre!",
+      "categoryId": 1,
+      "formal": true,
+      "id": 9
+    },
+    {
+      "word": "Mother",
+      "exampleSentence": "",
+      "translatedWord": "Madre",
+      "translatedExampleSentence": "",
+      "categoryId": 1,
+      "formal": true,
+      "id": 10
+    },
+    {
+      "word": "Dog",
+      "exampleSentence": "",
+      "translatedWord": "Perro",
+      "translatedExampleSentence": "",
+      "categoryId": 2,
+      "formal": true,
+      "id": 11
+    },
+    {
+      "word": "Cat",
+      "exampleSentence": "My cat is named Garfield",
+      "translatedWord": "Gato",
+      "translatedExampleSentence": "Mi gato se llama Garfield",
+      "categoryId": 2,
+      "formal": false,
+      "id": 12
+    },
+    {
+      "word": "Wife",
+      "exampleSentence": "I LOVE MY WIFE!",
+      "translatedWord": "Esposa",
+      "translatedExampleSentence": "AMO A MI ESPOSA!",
+      "categoryId": 1,
+      "formal": true,
+      "id": 13
+    },
+    {
+      "word": "Bird",
+      "exampleSentence": "",
+      "translatedWord": "Pájaro",
+      "translatedExampleSentence": "",
+      "categoryId": 2,
+      "formal": false,
+      "id": 14
+    },
+    {
+      "word": "Chicken",
+      "exampleSentence": "BoJangles or Popeyes?",
+      "translatedWord": "Pollo",
+      "translatedExampleSentence": "BoJangles o Popeyes?",
+      "categoryId": 2,
+      "formal": true,
+      "id": 15
+    },
+    {
+      "word": "Country",
+      "exampleSentence": "",
+      "translatedWord": "País",
+      "translatedExampleSentence": "",
+      "categoryId": 4,
+      "formal": true,
+      "id": 16
+    },
+    {
+      "word": "State",
+      "exampleSentence": "The state of Anxiety bc I'm presenting rn",
+      "translatedWord": "Estado",
+      "translatedExampleSentence": "El estado de Ansiedad porque estoy presentando ",
+      "categoryId": 4,
+      "formal": true,
+      "id": 17
+    },
+    {
+      "word": "Chair",
+      "exampleSentence": "",
+      "translatedWord": "Silla",
+      "translatedExampleSentence": "",
+      "categoryId": 6,
+      "formal": true,
+      "id": 18
+    },
+    {
+      "word": "Window",
+      "exampleSentence": "",
+      "translatedWord": "Ventana",
+      "translatedExampleSentence": "",
+      "categoryId": 6,
+      "formal": false,
+      "id": 19
+    },
+    {
+      "word": "Night",
+      "exampleSentence": "",
+      "translatedWord": "Noche",
+      "translatedExampleSentence": "",
+      "categoryId": 6,
+      "formal": false,
+      "id": 20
+    },
+    {
+      "word": "Table",
+      "exampleSentence": "",
+      "translatedWord": "Mesa",
+      "translatedExampleSentence": "",
+      "categoryId": 6,
+      "formal": false,
+      "id": 21
+    },
+    {
+      "word": "Eye",
+      "exampleSentence": "",
+      "translatedWord": "Ojo",
+      "translatedExampleSentence": "",
+      "categoryId": 6,
+      "formal": false,
+      "id": 22
+    },
+    {
+      "word": "Pants ",
+      "exampleSentence": "",
+      "translatedWord": "Pantalones",
+      "translatedExampleSentence": "",
+      "categoryId": 6,
+      "formal": false,
+      "id": 23
+    },
+    {
+      "word": "Umbrella",
+      "exampleSentence": "",
+      "translatedWord": "Paraguas",
+      "translatedExampleSentence": "",
+      "categoryId": 6,
+      "formal": false,
+      "id": 24
+    },
+    {
+      "word": "How do you say ...?",
+      "exampleSentence": "",
+      "translatedWord": "Como se dice ...?",
+      "translatedExampleSentence": "",
+      "categoryId": 7,
+      "formal": true,
+      "id": 25
+    },
+    {
+      "word": "Watch Out!",
+      "exampleSentence": "",
+      "translatedWord": "Aguas!",
+      "translatedExampleSentence": "",
+      "categoryId": 7,
+      "formal": false,
+      "id": 26
+    }
+  ]
+}
