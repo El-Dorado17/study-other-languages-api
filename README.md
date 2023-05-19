@@ -5,5 +5,5 @@ json-server -p 8088 database.json -w
 
 From there, the study-other-languages directory can be activated with NPM start
 
-<h4>Video guide</h4>
+<h1>Video guide</h1>
 https://youtu.be/3k0GS7kY3yU
