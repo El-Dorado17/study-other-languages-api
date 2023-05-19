@@ -13,10 +13,11 @@
       "isStaff": false
     },
     {
+      "id": 3,
+      "name": "Valentina Dorado",
       "email": "val@gmail.com",
-      "fullName": "Valentina Dorado",
-      "isStaff": false,
-      "id": 3
+      "isStaff": false
+      
     }
   ],
   "categories": [
