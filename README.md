@@ -1,5 +1,7 @@
-After pulling down this API repo, make sure to also pull down the study-other-languages repository. 
-Once in the API directory, type:
+This repository is used to store data and handle requests for the front-end repository.
+
+After pulling down this API repo, also pull down the study-other-languages repository. 
+Once in the API directory, run the following command:
 
 json-server -p 8088 database.json -w
 
